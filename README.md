@@ -1,2 +1,2 @@
 # valorant-game-website
-just for fun
+HTML, CSS, and JavaScript
